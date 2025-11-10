@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/senrans/static/js/main.e9316e5a.js",
+    "index.html": "/senrans/index.html",
+    "main.e9316e5a.js.map": "/senrans/static/js/main.e9316e5a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e9316e5a.js"
+  ]
+}
